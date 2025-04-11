@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322703364632",
+    "project_id": "medivial",
+    "storage_bucket": "medivial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322703364632:android:845cc0c64b50bdf1ca696d",
+        "android_client_info": {
+          "package_name": "com.example.medivial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBId8-5PvSMixipltWWPGhkaO7lGf0LqLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
