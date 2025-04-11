@@ -1,8 +1,7 @@
-# HealthyMood: Daily Life Health Tracking App
+# Medivial: Daily Life Health Tracking App
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/HealthyMood/blob/main/LICENSE)
 
-**HealthyMood** is an all-in-one health tracking app built with Kotlin that allows users to monitor their daily activities, nutrition, and overall well-being. With features like step tracking, water intake monitoring, calorie tracking, and meal logging, it empowers users to make healthier choices in their daily lives.
+**Medivial** is an all-in-one health tracking app built with Kotlin that allows users to monitor their daily activities, nutrition, and overall well-being. With features like step tracking, water intake monitoring, calorie tracking, and meal logging, it empowers users to make healthier choices in their daily lives.
 
 ## Features
 
@@ -54,10 +53,6 @@
 ## Contributing
 
 Contributions are welcome! Please follow our [`contributing guidelines`](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
 
